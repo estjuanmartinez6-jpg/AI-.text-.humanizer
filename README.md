@@ -12,6 +12,12 @@ Runs **100% locally in the browser** with zero external API calls, zero server l
 
 ---
 
+## 🖥️ Application Interface
+
+![HumanizeAI Dashboard Interface](preview.png)
+
+---
+
 ## ⚡ Architecture & Linguistic Pipeline
 
 LLM-generated text typically exhibits low **perplexity** (word choice predictability) and low **burstiness** (variation in sentence length and structure). This engine implements a multi-stage linguistic transformation pipeline to systematically humanize synthetic outputs:
